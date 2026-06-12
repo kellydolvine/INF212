@@ -1,0 +1,27 @@
+Code,Nom,Filiere,Niveau,Besoin_Labo
+INF212,Mathématiques Discrètes,INF,L2,Non
+INF222,Programmation Web,INF,L2,Oui
+INF232,Statistiques et Analyse de Données,INF,L2,Non
+INF242,Science des Données,INF,L2,Oui
+INF252,Sécurité Informatique,INF,L2,Non
+INF262,Systèmes d'Exploitation II,INF,L2,Non
+INF272,Réseaux Mobiles,INF,L2,Oui
+MAT212,Algèbre Linéaire II,MATH,L2,Non
+MAT222,Analyse Réelle II,MATH,L2,Non
+MAT232,Calcul Intégral,MATH,L2,Non
+MAT242,Géométrie Différentielle,MATH,L2,Non
+MAT252,Topologie Générale,MATH,L2,Non
+MAT262,Analyse Numérique,MATH,L2,Oui
+CHI212,Chimie Organique II,CHIM,L2,Oui
+CHI222,Chimie Inorganique II,CHIM,L2,Non
+CHI232,Cinétique Chimique,CHIM,L2,Non
+CHI242,Chimie des Solutions,CHIM,L2,Oui
+CHI252,Thermodynamique Chimique,CHIM,L2,Non
+CHI262,Spectroscopie,CHIM,L2,Oui
+PHY212,Thermodynamique II,PHY,L2,Non
+PHY222,Électromagnétisme II,PHY,L2,Oui
+PHY232,Optique Physique,PHY,L2,Oui
+PHY242,Mécanique Quantique I,PHY,L2,Non
+PHY252,Physique du Solide,PHY,L2,Non
+PHY262,Électronique Analogique,PHY,L2,Oui
+FBL212,Formation Bilingue II,INF,L2,Non
